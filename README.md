@@ -11,6 +11,6 @@ Visual cues for completed tasks and action icons.
 Technologies Used:-
 Flutter & Dart,Widgets: Scaffold, ListView, Card, TextField, IconButton,Local Storage: SharedPreferences,State Management: setState
 
-Author
+Author:
 Nayab Fatima
 Flutter Development Intern
