@@ -9,7 +9,9 @@ Clean and responsive layout using ListView and Card widgets.
 Visual cues for completed tasks and action icons.
 
 Technologies Used:-
-Flutter & Dart,Widgets: Scaffold, ListView, Card, TextField, IconButton,Local Storage: SharedPreferences,State Management: setState
+Flutter & Dart,Widgets: Scaffold, ListView, Card, TextField, IconButton
+Local Storage: SharedPreferences
+State Management: setState
 
 Author:
 Nayab Fatima
